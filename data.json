@@ -1,0 +1,21 @@
+{
+	"currentDate": "now()",
+	"original": {
+		"category": "기존 MCU",
+		"partNumber": "STM32F446RCT6",
+		"lists": [
+			{
+				"site": "마우저",
+				"link": "https://kr.mouser.com/ProductDetail/STMicroelectronics/STM32F446RCT6?qs=Ok1pvOkw6%2FrlZ63GppV%2FkA%3D%3D",
+				"inStock": "",
+				"unitPrice": ""
+			},
+			{
+				"site": "디지키",
+				"link": "https://www.digikey.kr/products/ko?keywords=STM32F446RCT6",
+				"inStock": "",
+				"unitPrice": ""
+			}
+		]
+	}
+}
